@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://github.com/GoblinThug/pillsnative"><img src="https://raw.githubusercontent.com/GoblinThug/pillsnative/main/assets/img/icon.png" height="64" alt="PillsNative" /></a>
   &emsp;&emsp;
-  <a href="https://github.com/GoblinThug/CustomSSH"><img src="https://raw.githubusercontent.com/GoblinThug/CustomSSH/main/build/icon.png" height="64" alt="CustomSSH" /></a>
+  <a href="https://github.com/GoblinThug/Custom-SSH"><img src="https://raw.githubusercontent.com/GoblinThug/Custom-SSH/main/build/icon.png" height="64" alt="Custom-SSH" /></a>
   &emsp;&emsp;
   <a href="https://github.com/GoblinThug/Sound-Hub"><img src="https://raw.githubusercontent.com/GoblinThug/Sound-Hub/main/assets/icons/icon128.png" height="64" alt="Sound-Hub" /></a>
   &emsp;&emsp;
