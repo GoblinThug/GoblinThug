@@ -7,64 +7,33 @@
 
 <p align="center">
   <a href="https://t.me/GoblinThug"><img src="https://img.shields.io/badge/Telegram-GoblinThug-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://t.me/webcenter_website"><img src="https://img.shields.io/badge/WebCenter-portfolio-111827?style=flat-square&logo=telegram&logoColor=white" alt="WebCenter" /></a>
-  <a href="https://steamcommunity.com/id/Goblin-Thug/"><img src="https://img.shields.io/badge/Steam-Goblin--Thug-1B2838?style=flat-square&logo=steam&logoColor=white" alt="Steam" /></a>
-  <img src="https://komarev.com/ghpvc/?username=GoblinThug&style=flat-square&color=7CFC00" alt="Profile views" />
+  <a href="https://webcenter.website/"><img src="https://img.shields.io/badge/WebCenter-Website-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="WebCenter Website" /></a>
+  <a href="https://t.me/webcenter_website"><img src="https://img.shields.io/badge/WebCenter-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="WebCenter Telegram" /></a>
 </p>
 
 ###
 
 <p align="center"><b>Projects · Проекты</b></p>
 
-<table align="center" border="0" cellspacing="0" cellpadding="16">
-  <tr>
-    <td align="center" valign="top" border="0">
-      <a href="https://github.com/GoblinThug/pillsnative">
-        <img src="https://raw.githubusercontent.com/GoblinThug/pillsnative/main/assets/img/icon.png" height="56" alt="PillsNative" />
-      </a>
-      <br/><br/>
-      <a href="https://github.com/GoblinThug/pillsnative">
-        <img src="https://img.shields.io/badge/PillsNative-E11D48?style=flat-square&logo=github&logoColor=white" alt="PillsNative" />
-      </a>
-    </td>
-    <td align="center" valign="top" border="0">
-      <a href="https://github.com/GoblinThug/CustomSSH">
-        <img src="https://raw.githubusercontent.com/GoblinThug/CustomSSH/main/build/icon.png" height="56" alt="CustomSSH" />
-      </a>
-      <br/><br/>
-      <a href="https://github.com/GoblinThug/CustomSSH">
-        <img src="https://img.shields.io/badge/CustomSSH-0EA5E9?style=flat-square&logo=github&logoColor=white" alt="CustomSSH" />
-      </a>
-    </td>
-    <td align="center" valign="top" border="0">
-      <a href="https://github.com/GoblinThug/Sound-Hub">
-        <img src="https://raw.githubusercontent.com/GoblinThug/Sound-Hub/main/assets/icons/icon128.png" height="56" alt="Sound-Hub" />
-      </a>
-      <br/><br/>
-      <a href="https://github.com/GoblinThug/Sound-Hub">
-        <img src="https://img.shields.io/badge/Sound--Hub-06B6D4?style=flat-square&logo=github&logoColor=white" alt="Sound-Hub" />
-      </a>
-    </td>
-    <td align="center" valign="top" border="0">
-      <a href="https://github.com/GoblinThug/GTAMOZA">
-        <img src="https://raw.githubusercontent.com/GoblinThug/GTAMOZA/main/build/icon.png" height="56" alt="GTAMOZA" />
-      </a>
-      <br/><br/>
-      <a href="https://github.com/GoblinThug/GTAMOZA">
-        <img src="https://img.shields.io/badge/GTAMOZA-EAB308?style=flat-square&logo=github&logoColor=111" alt="GTAMOZA" />
-      </a>
-    </td>
-    <td align="center" valign="top" border="0">
-      <a href="https://github.com/GoblinThug/CS2SkinGenerator">
-        <img src="https://raw.githubusercontent.com/GoblinThug/CS2SkinGenerator/main/src/assets/128x128.png" height="56" alt="CS2SkinGenerator" />
-      </a>
-      <br/><br/>
-      <a href="https://github.com/GoblinThug/CS2SkinGenerator">
-        <img src="https://img.shields.io/badge/CS2SkinGenerator-3B82F6?style=flat-square&logo=github&logoColor=white" alt="CS2SkinGenerator" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/GoblinThug/pillsnative"><img src="https://raw.githubusercontent.com/GoblinThug/pillsnative/main/assets/img/icon.png" height="64" alt="PillsNative" /></a>
+  &emsp;&emsp;
+  <a href="https://github.com/GoblinThug/CustomSSH"><img src="https://raw.githubusercontent.com/GoblinThug/CustomSSH/main/build/icon.png" height="64" alt="CustomSSH" /></a>
+  &emsp;&emsp;
+  <a href="https://github.com/GoblinThug/Sound-Hub"><img src="https://raw.githubusercontent.com/GoblinThug/Sound-Hub/main/assets/icons/icon128.png" height="64" alt="Sound-Hub" /></a>
+  &emsp;&emsp;
+  <a href="https://github.com/GoblinThug/GTAMOZA"><img src="https://raw.githubusercontent.com/GoblinThug/GTAMOZA/main/build/icon.png" height="64" alt="GTAMOZA" /></a>
+  &emsp;&emsp;
+  <a href="https://github.com/GoblinThug/CS2SkinGenerator"><img src="https://raw.githubusercontent.com/GoblinThug/CS2SkinGenerator/main/src/assets/128x128.png" height="64" alt="CS2SkinGenerator" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/GoblinThug/pillsnative"><img src="https://img.shields.io/badge/PillsNative-E11D48?style=flat-square&logo=github&logoColor=white" alt="PillsNative" /></a>
+  <a href="https://github.com/GoblinThug/CustomSSH"><img src="https://img.shields.io/badge/CustomSSH-0EA5E9?style=flat-square&logo=github&logoColor=white" alt="CustomSSH" /></a>
+  <a href="https://github.com/GoblinThug/Sound-Hub"><img src="https://img.shields.io/badge/Sound--Hub-06B6D4?style=flat-square&logo=github&logoColor=white" alt="Sound-Hub" /></a>
+  <a href="https://github.com/GoblinThug/GTAMOZA"><img src="https://img.shields.io/badge/GTAMOZA-EAB308?style=flat-square&logo=github&logoColor=111" alt="GTAMOZA" /></a>
+  <a href="https://github.com/GoblinThug/CS2SkinGenerator"><img src="https://img.shields.io/badge/CS2SkinGenerator-3B82F6?style=flat-square&logo=github&logoColor=white" alt="CS2SkinGenerator" /></a>
+</p>
 
 ###
 
