@@ -1,4 +1,4 @@
-<h1 align="center">👾 Goblin_Thug / developer · разработчик</h1> 
+<h1 align="center">👾 Goblin_Thug / developer · разработчик</h1>  
 
 <p align="center">
   <b>EN</b> — desktop & Android apps · CS2 tools · Chrome extensions<br/>
