@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://github.com/GoblinThug/pillsnative"><img src="https://img.shields.io/badge/PillsNative-E11D48?style=flat-square&logo=github&logoColor=white" alt="PillsNative" /></a>
-  <a href="https://github.com/GoblinThug/CustomSSH"><img src="https://img.shields.io/badge/CustomSSH-0EA5E9?style=flat-square&logo=github&logoColor=white" alt="CustomSSH" /></a>
+  <a href="https://github.com/GoblinThug/Custom-SSH"><img src="https://img.shields.io/badge/CustomSSH-0EA5E9?style=flat-square&logo=github&logoColor=white" alt="CustomSSH" /></a>
   <a href="https://github.com/GoblinThug/Sound-Hub"><img src="https://img.shields.io/badge/Sound--Hub-06B6D4?style=flat-square&logo=github&logoColor=white" alt="Sound-Hub" /></a>
   <a href="https://github.com/GoblinThug/GTAMOZA"><img src="https://img.shields.io/badge/GTAMOZA-EAB308?style=flat-square&logo=github&logoColor=111" alt="GTAMOZA" /></a>
   <a href="https://github.com/GoblinThug/CS2SkinGenerator"><img src="https://img.shields.io/badge/CS2SkinGenerator-3B82F6?style=flat-square&logo=github&logoColor=white" alt="CS2SkinGenerator" /></a>
